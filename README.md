@@ -6,6 +6,7 @@
   <em>Ansible-based infrastructure-as-code for hosting and deploying Magento-based shops.</em>
 </p>
 
+https://github.com/mageops/ansible-infrastructure
 # Infrastructure Provisioning
 
 ## CI/CD Automation
